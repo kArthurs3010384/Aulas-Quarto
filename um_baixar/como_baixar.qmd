@@ -1,0 +1,70 @@
+---
+title: "Como baixar e utilizar"
+format: gfm
+---
+
+
++ Acesse [Quarto.org](https://quarto.org/docs/get-started/) para fazer o
+download do Quarto <br> Clique na versão compatível com o seu sistema
+operacional <br>
+![Download Quarto](imagens/Download_Quarto.png)
+
+Para utilizar o Quarto será necessário ter uma das
+seguintes ferramentas instaladas: VS Code, Jupyter, RStudio, Neovim,
+Text Editor <br>
+
+Neste tutorial usaremos o VSCode <br>
+
+O Quarto permite linguagens de programação embarcadas como: Python, R,
+Julia, LaTeX, etc. <br>
+
++ Acesse [Python.org](https://www.python.org/downloads/) para fazer
+download do Python caso não tenha <br>
+![Download Python](imagens/download_python.png)
+
++ Acesse [VSCode](https://code.visualstudio.com/download) para fazer
+download do VSCode caso não tenha <br>
+![Download VSCode](imagens/download_vscode.png)
+
++ Após fazer os downloads será necessário instalar os programas, para o VSCode e Quarto dê dois cliques e aperte as opções de next ou próximo, até que o programa seja instaldo, nenhuma configuração especial será necessária
+
++ Instalação do VSCode
+
+![](imagens/i_vs_1.png)
+
+![](imagens/i_vs_2.png)
+
+![](imagens/i_vs_3.png)
+
++ Instalação do Quarto
+
+![](imagens/i_qrt_1.png)
+
+![](imagens/i_qrt_2.png)
+
+![](imagens/i_qrt_3.png)
+
++ Para o Python abra o instalador e quando aparecer a tela abaixo assinale a opção ADD Python to Path
+![](imagens/python_path.png)
+
++ Abra o VSCode
+![VSCode](imagens/VSCODE_cara.png)
++  use o atalho Ctrl + Shift + X para acessar as extensões
+pesquise Quarto e clique em install <br>
++ Use o mesmo atalho e pesquise por Python
+
+![](imagens/python_vscode.png)
+![](imagens/quarto_vscode.png)
+
+
+Acesse o terminal clicando ou
+usando o atalho Ctrl + Shift + ’ <br> <br> ![Terminal do
+VSCode](imagens/Captura%20de%20tela%202024-03-21%20105802.png) <br>
+
++ No terminal
+utilize o comando: <br>
+
+    py -m pip install jupyter 
+
+Para criar o arquivo vá no canto superior esquerdo, clique em file, new
+file, clique em Quarto Document.
